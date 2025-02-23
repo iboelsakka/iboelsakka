@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @iboelsakka
-- 👀 I’m interested in learning front end development. I'm trying to pick up React
-- 🌱 I’m currently learning React!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @iboelsakka
 
 <!---
 iboelsakka/iboelsakka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
